@@ -1,32 +1,72 @@
-About Me:
+👤 About Me
 
-I am YuvaSri M, a Software Developer with 2 years of experience in React and Python development. 
-I specialize in building dynamic, responsive UI components, integrating backend services, 
-and delivering intelligent AI-based solutions. My work emphasizes performance optimization 
-and user-centric design.
+I am YuvaSri M, a Software Developer with 2 years of experience in React and Python development. I specialize in building dynamic, responsive UI components, integrating backend services, and delivering AI-based intelligent solutions. My focus is on performance optimization, scalability, and user-centric design.
 
-🔹 Key Skills:
-- Frontend: React.js, JavaScript, TypeScript, Redux, Ant Design, React Flow, React Router, Apex Charts
-- Backend & APIs: Python, Node.js, RESTful APIs, AI agents, LLM-based solutions
-- Databases: PostgreSQL, MySQL
-- Cloud: AWS Fundamentals
-- Tools: Git, Jira
+🔹 Key Skills
 
-🔹 Experience Highlights:
-- Developed responsive and user-friendly interfaces with React and TypeScript
-- Built PostgreSQL Agent using LLM for database insights
-- Created AI-driven natural language SQL query system
-- Optimized data workflows, reducing manual efforts
+Frontend: React.js, JavaScript, TypeScript, Redux, Ant Design, React Flow, React Router, Apex Charts
 
-🔹 Education:
-- Master of Computer Applications (Ongoing), Anna University (2024-2026)
-- Bachelor of Computer Applications, Idhaya College of Arts and Science for Women (2019-2022)
+Backend & APIs: Python, Node.js, RESTful APIs, AI agents, LLM-based solutions
 
-I am passionate about solving complex problems, leveraging AI to build intelligent solutions, 
-and creating modern, scalable applications with a strong focus on user experience.
+Databases: PostgreSQL, MySQL
 
-CONTACTINFO
+Cloud: AWS Fundamentals
+
+Tools: Git, Jira
+
+🔹 Practical Scenarios
+React Scenario – Performance Optimization
+
+Challenge: A dashboard built with React and ApexCharts was slowing down due to frequent re-renders and heavy data processing.
+Action:
+
+Used React.memo and useCallback to reduce unnecessary re-renders.
+
+Implemented virtualized lists for large data sets.
+
+Optimized API calls with debouncing and caching.
+Result: Improved rendering speed by 40%, resulting in smoother UI and better user experience.
+
+Python Scenario – AI-Powered Query System
+
+Challenge: Users struggled with writing SQL queries for a PostgreSQL database.
+Action:
+
+Built an LLM-powered AI agent that converts natural language queries into SQL.
+
+Integrated error handling and schema validation for reliable results.
+
+Used Python + FastAPI for backend and exposed endpoints to frontend.
+Result: Reduced manual query writing efforts by 70% and empowered non-technical users to fetch insights easily.
+
+🔹 HR & Professional Q&A
+
+Q1. Tell me about yourself.
+I am a software developer with 2 years of experience in React and Python. I enjoy solving real-world problems by creating scalable web applications and AI-driven solutions. My strength lies in bridging frontend interactivity with backend intelligence, ensuring both performance and usability.
+
+Q2. What is your greatest strength?
+My greatest strength is my problem-solving mindset. I don’t just write code; I analyze the root cause, implement efficient solutions, and always focus on long-term maintainability.
+
+Q3. What is your greatest weakness?
+Earlier, I used to dive deep into details, which sometimes slowed delivery. I’ve worked on improving this by balancing quality with timelines, ensuring I deliver reliable solutions without unnecessary delays.
+
+Q4. How do you handle pressure or tight deadlines?
+I prioritize tasks based on impact and urgency, break them into smaller milestones, and communicate progress regularly. This helps me stay focused and ensures timely delivery without compromising quality.
+
+Q5. Why should we hire you?
+You should hire me because I bring a blend of technical expertise in React & Python, hands-on AI solution development, and a strong focus on user experience. I can contribute not only by writing efficient code but also by driving innovation and scalability in your projects.
+
+🔹 Education
+
+Master of Computer Applications (Ongoing), Anna University (2024–2026)
+
+Bachelor of Computer Applications, Idhaya College of Arts & Science for Women (2019–2022)
+
+🔹 Contact Info
+
 📧 Email: myuvasrim@gmail.com
+
 📍 Location: Chennai
-🔗 LinkedIn: www.linkedin.com/in/yuva-sri--m/
-githuib:https://github.com/Yuvasri1413
+🔗 LinkedIn: linkedin.com/in/yuva-sri--m
+
+💻 GitHub: github.com/Yuvasri1413
