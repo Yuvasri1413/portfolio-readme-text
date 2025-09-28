@@ -1,72 +1,103 @@
-👤 About Me
+# 👤 About Me
 
-I am YuvaSri M, a Software Developer with 2 years of experience in React and Python development. I specialize in building dynamic, responsive UI components, integrating backend services, and delivering AI-based intelligent solutions. My focus is on performance optimization, scalability, and user-centric design.
+I am **YuvaSri M**, a Software Developer with 2 years of experience in **React** and **Python** development.  
+I specialize in building dynamic, responsive UI components, integrating backend services, and delivering **AI-based intelligent solutions**.  
+My focus is on **performance optimization, scalability, and user-centric design**.
 
-🔹 Key Skills
+---
 
-Frontend: React.js, JavaScript, TypeScript, Redux, Ant Design, React Flow, React Router, Apex Charts
+## 🔹 Key Skills
+- **Frontend**: React.js, JavaScript, TypeScript, Redux, Ant Design, React Flow, React Router, Apex Charts  
+- **Backend & APIs**: Python, Node.js, RESTful APIs, AI agents, LLM-based solutions  
+- **Databases**: PostgreSQL, MySQL  
+- **Cloud**: AWS Fundamentals  
+- **Tools**: Git, Jira  
 
-Backend & APIs: Python, Node.js, RESTful APIs, AI agents, LLM-based solutions
+---
 
-Databases: PostgreSQL, MySQL
+## 🔹 Practical Scenarios
 
-Cloud: AWS Fundamentals
+### React Scenario – Performance Optimization  
+**Challenge**: A dashboard built with React and ApexCharts was slowing down due to frequent re-renders and heavy data processing.  
+**Action**:  
+- Used `React.memo` and `useCallback` to reduce unnecessary re-renders.  
+- Implemented virtualized lists for large data sets.  
+- Optimized API calls with debouncing and caching.  
+**Result**: Improved rendering speed by **40%**, resulting in smoother UI and better user experience.  
 
-Tools: Git, Jira
+---
 
-🔹 Practical Scenarios
-React Scenario – Performance Optimization
+### Python Scenario – AI-Powered Query System  
+**Challenge**: Users struggled with writing SQL queries for a PostgreSQL database.  
+**Action**:  
+- Built an **LLM-powered AI agent** that converts natural language queries into SQL.  
+- Integrated error handling and schema validation for reliable results.  
+- Used **Python + FastAPI** for backend and exposed endpoints to frontend.  
+**Result**: Reduced manual query writing efforts by **70%** and empowered non-technical users to fetch insights easily.  
 
-Challenge: A dashboard built with React and ApexCharts was slowing down due to frequent re-renders and heavy data processing.
-Action:
+---
 
-Used React.memo and useCallback to reduce unnecessary re-renders.
+## 🔹 HR & Professional Q&A
 
-Implemented virtualized lists for large data sets.
+**Q1. Tell me about yourself.**  
+I am a software developer with 2 years of experience in React and Python. I enjoy solving real-world problems by creating scalable web applications and AI-driven solutions. My strength lies in bridging frontend interactivity with backend intelligence, ensuring both performance and usability.  
 
-Optimized API calls with debouncing and caching.
-Result: Improved rendering speed by 40%, resulting in smoother UI and better user experience.
+**Q2. What is your greatest strength?**  
+My greatest strength is my **problem-solving mindset**. I don’t just write code; I analyze the root cause, implement efficient solutions, and always focus on long-term maintainability.  
 
-Python Scenario – AI-Powered Query System
+**Q3. What is your greatest weakness?**  
+Earlier, I used to dive deep into details, which sometimes slowed delivery. I’ve worked on improving this by balancing quality with timelines, ensuring I deliver reliable solutions without unnecessary delays.  
 
-Challenge: Users struggled with writing SQL queries for a PostgreSQL database.
-Action:
+**Q4. How do you handle pressure or tight deadlines?**  
+I prioritize tasks based on impact and urgency, break them into smaller milestones, and communicate progress regularly. This helps me stay focused and ensures timely delivery without compromising quality.  
 
-Built an LLM-powered AI agent that converts natural language queries into SQL.
+**Q5. Why should we hire you?**  
+You should hire me because I bring a blend of **technical expertise in React & Python**, hands-on **AI solution development**, and a strong focus on **user experience**. I can contribute not only by writing efficient code but also by driving innovation and scalability in your projects.  
 
-Integrated error handling and schema validation for reliable results.
+---
 
-Used Python + FastAPI for backend and exposed endpoints to frontend.
-Result: Reduced manual query writing efforts by 70% and empowered non-technical users to fetch insights easily.
+## 🔹 Experience
 
-🔹 HR & Professional Q&A
+### Program Analyst  
+**Krestwolf.ai, Edify Technologies**  
+*2024–2025 • Remote*  
 
-Q1. Tell me about yourself.
-I am a software developer with 2 years of experience in React and Python. I enjoy solving real-world problems by creating scalable web applications and AI-driven solutions. My strength lies in bridging frontend interactivity with backend intelligence, ensuring both performance and usability.
+Worked for **0.4 years** on a project focused on developing APIs and leveraging AI agents for application monitoring.  
 
-Q2. What is your greatest strength?
-My greatest strength is my problem-solving mindset. I don’t just write code; I analyze the root cause, implement efficient solutions, and always focus on long-term maintainability.
+- Developed a **PostgreSQL Agent** to fetch database insights using LLM-based prompting.  
+- Built an **AI-driven query system** for natural language SQL generation and accurate data retrieval.  
+- Integrated **RESTful APIs** for seamless communication with external applications.  
+- Optimized data workflows, enhancing efficiency and reducing manual effort.  
 
-Q3. What is your greatest weakness?
-Earlier, I used to dive deep into details, which sometimes slowed delivery. I’ve worked on improving this by balancing quality with timelines, ensuring I deliver reliable solutions without unnecessary delays.
+**Technologies**: PostgreSQL · LLMs · Python · Agents  
 
-Q4. How do you handle pressure or tight deadlines?
-I prioritize tasks based on impact and urgency, break them into smaller milestones, and communicate progress regularly. This helps me stay focused and ensures timely delivery without compromising quality.
+---
 
-Q5. Why should we hire you?
-You should hire me because I bring a blend of technical expertise in React & Python, hands-on AI solution development, and a strong focus on user experience. I can contribute not only by writing efficient code but also by driving innovation and scalability in your projects.
+### Junior Program Analyst  
+**Krestwolf.ai, Edify Technologies**  
+*2023–2024 • Remote*  
 
-🔹 Education
+Worked for **1.5 years** on a project named **Krestwolf.ai**, focusing on maintaining and enhancing the design aspects of the application to deliver a seamless and visually appealing user experience.  
 
-Master of Computer Applications (Ongoing), Anna University (2024–2026)
+- Developed responsive, user-friendly interfaces using **React.js, JavaScript, and TypeScript**.  
+- Used **Ant Design, React Flow, React Router, and ApexCharts** for rich UI.  
+- Leveraged **TypeScript** to improve reliability and maintainability.  
+- Implemented state management with **Redux** for consistent data flow.  
 
-Bachelor of Computer Applications, Idhaya College of Arts & Science for Women (2019–2022)
+**Technologies**: React · TypeScript · Redux · Ant Design · React Flow  
 
-🔹 Contact Info
+---
 
-📧 Email: myuvasrim@gmail.com
+## 🔹 Education
 
-📍 Location: Chennai
-🔗 LinkedIn: linkedin.com/in/yuva-sri--m
+- **Master of Computer Applications (Ongoing)** – Anna University *(2024–2026)*  
+- **Bachelor of Computer Applications** – Idhaya College of Arts & Science for Women *(2019–2022)*  
 
-💻 GitHub: github.com/Yuvasri1413
+---
+
+## 🔹 Contact Info
+
+📧 Email: [myuvasrim@gmail.com](mailto:myuvasrim@gmail.com)  
+📍 Location: Chennai  
+🔗 LinkedIn: [linkedin.com/in/yuva-sri--m](https://linkedin.com/in/yuva-sri--m)  
+💻 GitHub: [github.com/Yuvasri1413](https://github.com/Yuvasri1413)  
